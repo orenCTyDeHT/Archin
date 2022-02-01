@@ -16,6 +16,7 @@ s = j_list['result']['count']
 si_types = []
 str_temp = {}
 time.sleep(1)
+pass
 while count < 500:
     params = {
         'search': '*',
